@@ -1,0 +1,38 @@
+/* Write your code here. */
+* {
+  font-family: 'Roboto';
+}
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 34px;
+}
+
+.img {
+  width: 60%;
+}
+
+.heading {
+  font-size: 28px;
+  color: #1e293b;
+}
+
+.img-tab-container {
+  margin-top: 32px;
+}
+
+.courtesy {
+  color: #64748b;
+  font-weight: 500;
+  font-size: 18px;
+}
+
+.img-thumbnail-container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  padding-left: 0px;
+}
